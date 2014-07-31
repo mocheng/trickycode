@@ -5,7 +5,9 @@
   "keywords": [],
   "author": "Morgan Cheng <morgan.chengmo@gmail.com>",
   "repository": { "type": "git", "url": "git://github.com//trickycode.git" },
-  "dependencies": {},
+  "dependencies": {
+    "fibers": "*"
+  },
   "devDependencies": {
     "redis": "~0.10.1",
     "mocha": "*",
